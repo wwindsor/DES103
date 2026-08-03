@@ -1,6 +1,7 @@
 #!/bin/bash
 obtener_fecha() {
     echo $(date)
+    echo $(date)
 }
 
 fecha_actual=$(obtener_fecha)
